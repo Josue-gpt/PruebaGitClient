@@ -13,6 +13,10 @@ public class ColaSolicitudes {
         String nombreParticipante;
         String detalle;
         Nodo siguiente;
+        String nigga;
+        String ngga;
+        String nga;
+        String niga;
 
         public Nodo(String nombreParticipante, String detalle) {
             this.nombreParticipante = nombreParticipante;
